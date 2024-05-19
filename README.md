@@ -6,6 +6,7 @@ This project is a small platformer game inspired by classic Mario games. Players
 
 Features
 Custom Sprites and Animations: Smooth and engaging character animations created with custom sprites.
+
 SQL Scoreboard Database: Efficient score tracking and storage using SQL.
 Challenging Levels: Multiple levels with increasing difficulty.
 Coin Collection: Collect coins to increase your score.
